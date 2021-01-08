@@ -1,5 +1,11 @@
 # word-cloud-generator
 It's a golang web app that takes a block of text and turns it into a word cloud. 
+Changed a little bit README file.
+
+
+Please RUN the following command when you get hit by the error upon 'commit -m ....'.
+go mod init lnkd.in/eungPVN
+
 
 ## Notice
 This project is under active development. This project is being created as a sample app for an upcoming training class on Continuous Delivery with Lynda.com. You can see previous courses we have made at https://lynda.com/JamesWickett. Thanks!
